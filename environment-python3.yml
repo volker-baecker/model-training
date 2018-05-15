@@ -1,0 +1,9 @@
+name: python3
+channels:
+- conda-forge
+dependencies:
+# conda-forge
+- pillow==4.2.1
+- numpy==1.14.2
+- matplotlib==2.0.2
+- tifffile==0.12.1
